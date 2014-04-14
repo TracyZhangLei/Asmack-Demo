@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmackDemo</string>
+    <string name="chatTitle">与%1s聊天中</string>
+
+</resources>
